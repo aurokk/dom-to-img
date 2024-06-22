@@ -7,6 +7,34 @@
       "name": "Sourcegraph Search"
     },
     {
+      "role": "text",
+      "name": "Your Sourcegraph license"
+    },
+    {
+      "role": "text",
+      "name": "expired 3 years ago"
+    },
+    {
+      "role": "text",
+      "name": ". "
+    },
+    {
+      "role": "link",
+      "name": "Renew now"
+    },
+    {
+      "role": "text",
+      "name": " or "
+    },
+    {
+      "role": "link",
+      "name": "contact Sourcegraph"
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
       "role": "link",
       "name": "Extensions"
     },
@@ -35,10 +63,6 @@
       "name": "Search public code"
     },
     {
-      "role": "generic",
-      "name": "Show Fixes"
-    },
-    {
       "role": "textbox",
       "name": "Editor content;Press Alt+F1 for Accessibility Options.",
       "multiline": true,
@@ -62,6 +86,11 @@
     {
       "role": "button",
       "name": "Search"
+    },
+    {
+      "role": "generic",
+      "name": "Quick help for search",
+      "haspopup": "menu"
     },
     {
       "role": "heading",
@@ -163,7 +192,7 @@
     },
     {
       "role": "heading",
-      "name": "Search a language lang:name",
+      "name": "Search a language",
       "level": 3
     },
     {
@@ -254,16 +283,6 @@
       "role": "heading",
       "name": "Search syntax",
       "level": 3
-    },
-    {
-      "role": "heading",
-      "name": "COMMON SEARCH",
-      "level": 5
-    },
-    {
-      "role": "heading",
-      "name": "FINDING MATCHES",
-      "level": 5
     },
     {
       "role": "link",

@@ -27,6 +27,18 @@
       "name": "Sign in"
     },
     {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Google Search"
+    },
+    {
+      "role": "button",
+      "name": "I'm Feeling Lucky"
+    },
+    {
       "role": "combobox",
       "name": "Search"
     },
@@ -70,18 +82,6 @@
     },
     {
       "role": "button",
-      "name": "Google Search"
-    },
-    {
-      "role": "button",
-      "name": "I'm Feeling Lucky"
-    },
-    {
-      "role": "button",
-      "name": ""
-    },
-    {
-      "role": "button",
       "name": "close"
     },
     {
@@ -97,21 +97,12 @@
       "name": "Deutsch"
     },
     {
-      "role": "text",
-      "name": "Germany"
-    },
-    {
       "role": "link",
       "name": "Privacy"
     },
     {
       "role": "link",
       "name": "Terms"
-    },
-    {
-      "role": "combobox",
-      "name": "Settings",
-      "haspopup": "menu"
     },
     {
       "role": "menu",
@@ -144,6 +135,11 @@
       ]
     },
     {
+      "role": "combobox",
+      "name": "Settings",
+      "haspopup": "menu"
+    },
+    {
       "role": "link",
       "name": "Advertising"
     },
@@ -157,15 +153,19 @@
     },
     {
       "role": "text",
-      "name": "Google uses cookies to deliver its services, to personalise ads and to analyse traffic. You can adjust your privacy controls at any time in your"
+      "name": "Germany"
     },
     {
       "role": "text",
-      "name": "."
+      "name": "Google uses cookies to deliver its services, to personalise ads and to analyse traffic. You can adjust your privacy controls at any time in your"
     },
     {
       "role": "link",
       "name": "Google settings"
+    },
+    {
+      "role": "text",
+      "name": "."
     },
     {
       "role": "link",

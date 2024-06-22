@@ -11,30 +11,6 @@
       "name": ""
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "Hacker News"
     },
@@ -43,24 +19,48 @@
       "name": "new"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "past"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
       "name": "comments"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "ask"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
       "name": "show"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "jobs"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -87,28 +87,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "bluesnews.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "75 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -119,8 +111,16 @@
       "name": "2 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -143,28 +143,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "wiley.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "219 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -175,8 +167,16 @@
       "name": "5 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -199,28 +199,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "spacehey.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "462 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -231,8 +223,16 @@
       "name": "6 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -255,28 +255,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "github.com/mhx"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "168 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -287,8 +279,16 @@
       "name": "6 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -311,28 +311,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "arxiv.org"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "18 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -343,8 +335,16 @@
       "name": "1 hour ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -367,28 +367,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "github.com/mikf"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "300 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -399,8 +391,16 @@
       "name": "10 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -423,28 +423,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "petapixel.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "279 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -455,8 +447,16 @@
       "name": "10 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -479,28 +479,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "datagubbe.se"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "165 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -511,8 +503,16 @@
       "name": "8 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -531,20 +531,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "lever.co"
     },
     {
       "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "link",
       "name": "1 hour ago"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -567,28 +567,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "moxie.org"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "33 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -599,8 +591,16 @@
       "name": "3 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -623,28 +623,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "jongmah.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "115 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -655,8 +647,16 @@
       "name": "5 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -679,28 +679,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "arp242.net"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "36 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -711,8 +703,16 @@
       "name": "4 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -735,28 +735,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "twitter.com/marcan42"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "149 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -767,8 +759,16 @@
       "name": "2 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -791,28 +791,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "java.net"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "36 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -823,8 +815,16 @@
       "name": "5 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -847,28 +847,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "tylerlmz1.github.io"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "12 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -879,8 +871,16 @@
       "name": "3 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -903,28 +903,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "evjang.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "19 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -935,8 +927,16 @@
       "name": "2 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -959,28 +959,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "dropbox.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "56 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -991,8 +983,16 @@
       "name": "7 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1015,28 +1015,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "github.com/pallada-92"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "118 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1047,8 +1039,16 @@
       "name": "10 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1071,28 +1071,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "bbc.co.uk"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "18 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1103,8 +1095,16 @@
       "name": "4 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1127,28 +1127,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "bleepingcomputer.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "259 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1159,8 +1151,16 @@
       "name": "7 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1183,28 +1183,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "twitter.com/l4stewar"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "57 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1215,8 +1207,16 @@
       "name": "2 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1239,28 +1239,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "ethw.org"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "14 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1271,8 +1263,16 @@
       "name": "3 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1295,28 +1295,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "cia.gov"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "63 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1327,8 +1319,16 @@
       "name": "9 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1348,19 +1348,11 @@
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
       "name": "298 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1371,8 +1363,16 @@
       "name": "8 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1395,28 +1395,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "toroid.org"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "67 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1427,8 +1419,16 @@
       "name": "10 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1451,28 +1451,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "geekwire.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "20 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1483,8 +1475,16 @@
       "name": "1 hour ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1504,19 +1504,11 @@
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
       "name": "35 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1527,8 +1519,16 @@
       "name": "4 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1551,28 +1551,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "hakaimagazine.com"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "63 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1583,8 +1575,16 @@
       "name": "8 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1607,28 +1607,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "abe-winter.github.io"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "84 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1639,8 +1631,16 @@
       "name": "4 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1663,28 +1663,20 @@
       "name": "("
     },
     {
-      "role": "text",
-      "name": ")"
-    },
-    {
       "role": "link",
       "name": "churchofthought.org"
     },
     {
       "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": ")"
     },
     {
       "role": "text",
       "name": "57 points"
+    },
+    {
+      "role": "text",
+      "name": "by"
     },
     {
       "role": "link",
@@ -1695,8 +1687,16 @@
       "name": "12 hours ago"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "hide"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
@@ -1707,60 +1707,60 @@
       "name": "More"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "Guidelines"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
       "name": "FAQ"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "Lists"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
       "name": "API"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "Security"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",
       "name": "Legal"
     },
     {
+      "role": "text",
+      "name": "|"
+    },
+    {
       "role": "link",
       "name": "Apply to YC"
+    },
+    {
+      "role": "text",
+      "name": "|"
     },
     {
       "role": "link",

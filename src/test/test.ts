@@ -229,10 +229,10 @@ describe('documentToSVG()', () => {
 				console.log('Bringing page to front')
 				await page.bringToFront()
 				console.log('Snapshotting the original page')
-				const expectedScreenshot = await page.screenshot({ encoding: 'binary', type: 'png', fullPage: false })
+				const expectedScreenshot = await page.screenshot({ encoding: 'binary', type: 'png', fullPage: false }) as Buffer
 				await writeFile(path.resolve(snapshotDirectory, `${encodedName}.expected.png`), expectedScreenshot)
 				console.log('Snapshotting the SVG')
-				const actualScreenshot = await svgPage.screenshot({ encoding: 'binary', type: 'png', fullPage: false })
+				const actualScreenshot = await svgPage.screenshot({ encoding: 'binary', type: 'png', fullPage: false }) as Buffer
 				await writeFile(path.resolve(snapshotDirectory, `${encodedName}.actual.png`), actualScreenshot)
 				console.log('Snapshotted, comparing PNGs')
 

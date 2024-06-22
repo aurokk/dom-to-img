@@ -16,75 +16,75 @@
     },
     {
       "role": "link",
-      "name": "Skip to content"
-    },
-    {
-      "role": "link",
-      "name": "Homepage"
+      "name": ""
     },
     {
       "role": "link",
       "name": ""
     },
     {
+      "role": "generic",
+      "name": ""
+    },
+    {
       "role": "button",
-      "name": "Toggle navigation"
+      "name": "Dismiss error"
     },
     {
       "role": "button",
       "name": "Toggle navigation"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
     },
     {
       "role": "button",
       "name": "Why GitHub?"
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
     },
     {
       "role": "link",
@@ -95,82 +95,92 @@
       "name": "Enterprise"
     },
     {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
       "role": "button",
       "name": "Explore"
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
     },
     {
       "role": "link",
       "name": "Marketplace"
     },
     {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
       "role": "button",
       "name": "Pricing"
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
     },
     {
       "role": "combobox",
       "name": "Search or jump to",
       "haspopup": "listbox",
       "children": [
+        {
+          "role": "option",
+          "name": "Repository Project Search Team in this repository in all of GitHub",
+          "children": [
+            {
+              "role": "link",
+              "name": "Repository Project Search Team in this repository in all of GitHub"
+            }
+          ]
+        },
         {
           "role": "listbox",
           "name": "",
@@ -196,16 +206,6 @@
               ]
             }
           ]
-        },
-        {
-          "role": "option",
-          "name": "Repository Project Search Team in this repository in all of GitHub",
-          "children": [
-            {
-              "role": "link",
-              "name": "Repository Project Search Team in this repository in all of GitHub"
-            }
-          ]
         }
       ]
     },
@@ -216,6 +216,22 @@
     {
       "role": "link",
       "name": "Sign up"
+    },
+    {
+      "role": "link",
+      "name": "Homepage"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Toggle navigation"
+    },
+    {
+      "role": "link",
+      "name": "Skip to content"
     },
     {
       "role": "link",
@@ -345,13 +361,13 @@
       "name": ""
     },
     {
+      "role": "menu",
+      "name": ""
+    },
+    {
       "role": "combobox",
       "name": "Switch branches or tags",
       "haspopup": "menu"
-    },
-    {
-      "role": "menu",
-      "name": ""
     },
     {
       "role": "link",
@@ -435,11 +451,11 @@
     },
     {
       "role": "button",
-      "name": "contributor 1"
+      "name": "Close dialog"
     },
     {
       "role": "button",
-      "name": "Close dialog"
+      "name": "1 contributor"
     },
     {
       "role": "text",
@@ -479,11 +495,7 @@
     },
     {
       "role": "text",
-      "name": ":"
-    },
-    {
-      "role": "text",
-      "name": ","
+      "name": "\""
     },
     {
       "role": "text",
@@ -492,6 +504,10 @@
     {
       "role": "text",
       "name": "\""
+    },
+    {
+      "role": "text",
+      "name": ":"
     },
     {
       "role": "text",
@@ -507,7 +523,7 @@
     },
     {
       "role": "text",
-      "name": "\""
+      "name": ","
     },
     {
       "role": "text",
@@ -515,7 +531,7 @@
     },
     {
       "role": "text",
-      "name": ": {"
+      "name": "\""
     },
     {
       "role": "text",
@@ -527,7 +543,7 @@
     },
     {
       "role": "text",
-      "name": "\""
+      "name": ": {"
     },
     {
       "role": "text",
@@ -535,11 +551,7 @@
     },
     {
       "role": "text",
-      "name": ":"
-    },
-    {
-      "role": "text",
-      "name": ","
+      "name": "\""
     },
     {
       "role": "text",
@@ -551,7 +563,7 @@
     },
     {
       "role": "text",
-      "name": "\""
+      "name": ":"
     },
     {
       "role": "text",
@@ -559,15 +571,15 @@
     },
     {
       "role": "text",
+      "name": ","
+    },
+    {
+      "role": "text",
       "name": "5"
     },
     {
       "role": "text",
-      "name": ":"
-    },
-    {
-      "role": "text",
-      "name": ","
+      "name": "\""
     },
     {
       "role": "text",
@@ -579,7 +591,7 @@
     },
     {
       "role": "text",
-      "name": "\""
+      "name": ":"
     },
     {
       "role": "text",
@@ -587,15 +599,15 @@
     },
     {
       "role": "text",
+      "name": ","
+    },
+    {
+      "role": "text",
       "name": "6"
     },
     {
       "role": "text",
-      "name": ":"
-    },
-    {
-      "role": "text",
-      "name": ","
+      "name": "\""
     },
     {
       "role": "text",
@@ -607,7 +619,7 @@
     },
     {
       "role": "text",
-      "name": "\""
+      "name": ":"
     },
     {
       "role": "text",
@@ -615,15 +627,15 @@
     },
     {
       "role": "text",
+      "name": ","
+    },
+    {
+      "role": "text",
       "name": "7"
     },
     {
       "role": "text",
-      "name": ":"
-    },
-    {
-      "role": "text",
-      "name": ","
+      "name": "\""
     },
     {
       "role": "text",
@@ -635,11 +647,15 @@
     },
     {
       "role": "text",
-      "name": "\""
+      "name": ":"
     },
     {
       "role": "text",
       "name": "true"
+    },
+    {
+      "role": "text",
+      "name": ","
     },
     {
       "role": "text",
@@ -659,7 +675,7 @@
     },
     {
       "role": "button",
-      "name": "Jump to line"
+      "name": ""
     },
     {
       "role": "generic",
@@ -667,7 +683,7 @@
     },
     {
       "role": "button",
-      "name": ""
+      "name": "Jump to line"
     },
     {
       "role": "link",
@@ -726,32 +742,8 @@
       "name": "About"
     },
     {
-      "role": "button",
-      "name": "Dismiss error"
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "generic",
-      "name": ""
-    },
-    {
       "role": "text",
       "name": "We use"
-    },
-    {
-      "role": "text",
-      "name": "third-party analytics cookies to understand how you use GitHub.com so we can build better products."
-    },
-    {
-      "role": "text",
-      "name": "."
     },
     {
       "role": "text",
@@ -759,7 +751,15 @@
     },
     {
       "role": "text",
+      "name": "third-party analytics cookies to understand how you use GitHub.com so we can build better products."
+    },
+    {
+      "role": "text",
       "name": "Learn more"
+    },
+    {
+      "role": "text",
+      "name": "."
     },
     {
       "role": "button",
