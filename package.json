@@ -12,6 +12,9 @@
 		"type": "git",
 		"url": "https://github.com/aurokk/dom-to-svg"
 	},
+  "publishConfig": {
+    "access": "public"
+  },
 	"browserslist": [
 		"last 2 Chrome versions",
 		"last 2 Firefox versions"
