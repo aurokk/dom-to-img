@@ -1,10 +1,10 @@
 {
-  "role": "WebArea",
+  "role": "RootWebArea",
   "name": "",
   "children": [
     {
       "role": "link",
-      "name": "Sourcegraph Search"
+      "name": " Sourcegraph Search "
     },
     {
       "role": "link",
@@ -12,26 +12,52 @@
     },
     {
       "role": "link",
-      "name": "Code Search"
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "Code Search"
+        }
+      ]
     },
     {
       "role": "link",
-      "name": "Cody AI"
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "Cody AI"
+        }
+      ]
     },
     {
       "role": "link",
-      "name": "About Sourcegraph"
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "About Sourcegraph"
+        }
+      ]
     },
     {
       "role": "link",
       "name": "Sign in"
     },
     {
+      "role": "image",
+      "name": "Sourcegraph logo"
+    },
+    {
+      "role": "StaticText",
+      "name": "Code search and an AI assistant with the context of the code graph."
+    },
+    {
       "role": "button",
       "name": "Open search history"
     },
     {
-      "role": "generic",
+      "role": "group",
       "name": "",
       "children": [
         {
@@ -53,21 +79,13 @@
       "checked": false
     },
     {
-      "role": "img",
-      "name": "Sourcegraph logo"
-    },
-    {
-      "role": "text",
-      "name": "Code search and an AI assistant with the context of the code graph."
-    },
-    {
       "role": "tab",
-      "name": "How to search",
+      "name": "",
       "selected": true
     },
     {
       "role": "tab",
-      "name": "Popular queries"
+      "name": ""
     },
     {
       "role": "tabpanel",
@@ -80,50 +98,148 @@
         },
         {
           "role": "link",
-          "name": "testserver"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "test"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "server"
+            }
+          ]
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "(both terms anywhere)"
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "This feature is currently in new"
         },
         {
           "role": "link",
-          "name": "\"Error1001\""
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "\"Error"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "1001\""
+            }
+          ]
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "(specific string)"
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "This feature is currently in new"
         },
         {
           "role": "link",
-          "name": "\"\\\"Error1001\\\"\""
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "\"\\\"Error"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "1001\\\"\""
+            }
+          ]
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "(specific string containing quotes)"
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "This feature is currently in new"
         },
         {
           "role": "link",
-          "name": "fooORbar"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "foo"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "OR"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "bar"
+            }
+          ]
         },
         {
           "role": "link",
-          "name": "/open(File|Dir)/"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "/"
+            },
+            {
+              "role": "StaticText",
+              "name": "open"
+            },
+            {
+              "role": "StaticText",
+              "name": "("
+            },
+            {
+              "role": "StaticText",
+              "name": "File"
+            },
+            {
+              "role": "StaticText",
+              "name": "|"
+            },
+            {
+              "role": "StaticText",
+              "name": "Dir"
+            },
+            {
+              "role": "StaticText",
+              "name": ")"
+            },
+            {
+              "role": "StaticText",
+              "name": "/"
+            }
+          ]
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "(regular expression)"
         },
         {
@@ -133,11 +249,87 @@
         },
         {
           "role": "link",
-          "name": "type:diffafter:1weekfix"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "type"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "diff"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "after"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "1week"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "fix"
+            }
+          ]
         },
         {
           "role": "link",
-          "name": "type:diffauthor:aliceadd"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "type"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "diff"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "author"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "alice"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "add"
+            }
+          ]
         },
         {
           "role": "heading",
@@ -146,23 +338,99 @@
         },
         {
           "role": "link",
-          "name": "file:testfoo"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "file"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "test"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "foo"
+            }
+          ]
         },
         {
           "role": "link",
-          "name": "repo:facebook/react"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "repo"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "facebook"
+            },
+            {
+              "role": "StaticText",
+              "name": "/"
+            },
+            {
+              "role": "StaticText",
+              "name": "react"
+            }
+          ]
         },
         {
           "role": "link",
-          "name": "repo:kubernetes/"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "repo"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "kubernetes"
+            },
+            {
+              "role": "StaticText",
+              "name": "/"
+            }
+          ]
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "(all repositories in org)"
         },
         {
           "role": "link",
-          "name": "lang:javascript"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "lang"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "javascript"
+            }
+          ]
         },
         {
           "role": "heading",
@@ -171,19 +439,183 @@
         },
         {
           "role": "link",
-          "name": "repo:has.description(foo)"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "repo"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "has"
+            },
+            {
+              "role": "StaticText",
+              "name": "."
+            },
+            {
+              "role": "StaticText",
+              "name": "description"
+            },
+            {
+              "role": "StaticText",
+              "name": "("
+            },
+            {
+              "role": "StaticText",
+              "name": "foo"
+            },
+            {
+              "role": "StaticText",
+              "name": ")"
+            }
+          ]
         },
         {
           "role": "link",
-          "name": "file:^some_pathfile:has.owner(alice)"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "file"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "^"
+            },
+            {
+              "role": "StaticText",
+              "name": "some_path"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "file"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "has"
+            },
+            {
+              "role": "StaticText",
+              "name": "."
+            },
+            {
+              "role": "StaticText",
+              "name": "owner"
+            },
+            {
+              "role": "StaticText",
+              "name": "("
+            },
+            {
+              "role": "StaticText",
+              "name": "alice"
+            },
+            {
+              "role": "StaticText",
+              "name": ")"
+            }
+          ]
         },
         {
           "role": "link",
-          "name": "file:^some_pathselect:file.owners"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "file"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "^"
+            },
+            {
+              "role": "StaticText",
+              "name": "some_path"
+            },
+            {
+              "role": "StaticText",
+              "name": " "
+            },
+            {
+              "role": "StaticText",
+              "name": "select"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "file.owners"
+            }
+          ]
         },
         {
           "role": "link",
-          "name": "file:has.commit.after(1week)"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "file"
+            },
+            {
+              "role": "StaticText",
+              "name": ":"
+            },
+            {
+              "role": "StaticText",
+              "name": "has"
+            },
+            {
+              "role": "StaticText",
+              "name": "."
+            },
+            {
+              "role": "StaticText",
+              "name": "commit"
+            },
+            {
+              "role": "StaticText",
+              "name": "."
+            },
+            {
+              "role": "StaticText",
+              "name": "after"
+            },
+            {
+              "role": "StaticText",
+              "name": "("
+            },
+            {
+              "role": "StaticText",
+              "name": "1week"
+            },
+            {
+              "role": "StaticText",
+              "name": ")"
+            }
+          ]
         },
         {
           "role": "link",

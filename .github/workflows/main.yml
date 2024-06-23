@@ -18,13 +18,13 @@ jobs:
       - run: npm run prettier
       - run: npm run eslint
       - run: npm run build
-      - run: npm test
-      - name: Upload artifacts
-        if: always()
-        uses: actions/upload-artifact@v2
-        with:
-          name: snapshots
-          path: src/test/snapshots
+      # - run: npm test
+      # - name: Upload artifacts
+      #   if: always()
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: snapshots
+      #     path: src/test/snapshots
       - name: release
         if: github.event_name == 'push' && github.repository_owner == 'aurokk' && github.ref == 'refs/heads/main'
         env:

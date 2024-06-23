@@ -1,22 +1,10 @@
 {
-  "role": "WebArea",
+  "role": "RootWebArea",
   "name": "",
   "children": [
     {
       "role": "link",
-      "name": "GitHub"
-    },
-    {
-      "role": "link",
-      "name": "GitHub"
-    },
-    {
-      "role": "generic",
-      "name": ""
-    },
-    {
-      "role": "button",
-      "name": "Dismiss error"
+      "name": "S k i p t o c o n t e n t"
     },
     {
       "role": "heading",
@@ -29,47 +17,7 @@
     },
     {
       "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
+      "name": "Homepage"
     },
     {
       "role": "link",
@@ -77,7 +25,15 @@
     },
     {
       "role": "button",
+      "name": "Toggle navigation"
+    },
+    {
+      "role": "button",
       "name": "Product"
+    },
+    {
+      "role": "link",
+      "name": ""
     },
     {
       "role": "link",
@@ -148,8 +104,36 @@
       "name": ""
     },
     {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
       "role": "button",
       "name": "Open Source"
+    },
+    {
+      "role": "link",
+      "name": ""
     },
     {
       "role": "link",
@@ -173,11 +157,27 @@
     },
     {
       "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
       "name": "Pricing"
     },
     {
       "role": "button",
-      "name": "Search or jump to..."
+      "name": ""
     },
     {
       "role": "combobox",
@@ -190,7 +190,8 @@
     },
     {
       "role": "listbox",
-      "name": "Suggestions"
+      "name": "Suggestions",
+      "orientation": "vertical"
     },
     {
       "role": "link",
@@ -199,14 +200,6 @@
     {
       "role": "button",
       "name": "Close"
-    },
-    {
-      "role": "button",
-      "name": ""
-    },
-    {
-      "role": "button",
-      "name": ""
     },
     {
       "role": "textbox",
@@ -219,18 +212,26 @@
     },
     {
       "role": "button",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "button",
       "name": "Close"
     },
     {
-      "role": "button",
-      "name": ""
-    },
-    {
-      "role": "button",
-      "name": ""
-    },
-    {
       "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "button",
       "name": ""
     },
     {
@@ -240,22 +241,6 @@
     {
       "role": "link",
       "name": "Sign up"
-    },
-    {
-      "role": "link",
-      "name": "Homepage"
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "button",
-      "name": "Toggle navigation"
-    },
-    {
-      "role": "link",
-      "name": "Skip to content"
     },
     {
       "role": "link",
@@ -278,7 +263,7 @@
       "name": "felixfbecker"
     },
     {
-      "role": "text",
+      "role": "StaticText",
       "name": "/"
     },
     {
@@ -286,7 +271,7 @@
       "name": "dom-to-svg"
     },
     {
-      "role": "text",
+      "role": "StaticText",
       "name": "Public"
     },
     {
@@ -295,7 +280,7 @@
     },
     {
       "role": "link",
-      "name": "Fork 39"
+      "name": "Fork 39 "
     },
     {
       "role": "link",
@@ -308,31 +293,43 @@
     },
     {
       "role": "link",
-      "name": "Code Not available"
+      "name": " Not available "
     },
     {
       "role": "link",
-      "name": "Issues 33"
+      "name": " 33 "
     },
     {
       "role": "link",
-      "name": "Pull requests 18"
+      "name": " 18 "
     },
     {
       "role": "link",
-      "name": "Actions Not available"
+      "name": " Not available "
     },
     {
       "role": "link",
-      "name": "Security"
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "Security"
+        }
+      ]
     },
     {
       "role": "link",
-      "name": "Insights Not available"
+      "name": " Not available "
+    },
+    {
+      "role": "button",
+      "name": "",
+      "haspopup": "menu"
     },
     {
       "role": "menu",
       "name": "",
+      "orientation": "vertical",
       "children": [
         {
           "role": "menuitem",
@@ -361,17 +358,12 @@
       ]
     },
     {
-      "role": "combobox",
-      "name": "",
-      "haspopup": "menu"
-    },
-    {
       "role": "button",
       "name": ""
     },
     {
-      "role": "generic",
-      "name": "Collapse file treeFilesfee7e1e branchSearch this repository File Tree NavigationPane width 0 pixels",
+      "role": "group",
+      "name": "",
       "children": [
         {
           "role": "heading",
@@ -384,7 +376,7 @@
           "level": 2
         },
         {
-          "role": "combobox",
+          "role": "button",
           "name": "fee7e1e branch",
           "haspopup": "menu"
         },
@@ -416,6 +408,7 @@
         {
           "role": "tree",
           "name": "Files",
+          "orientation": "vertical",
           "children": [
             {
               "role": "treeitem",
@@ -520,7 +513,7 @@
         {
           "role": "slider",
           "name": "Draggable pane splitter",
-          "value": 0,
+          "value": 256,
           "valuetext": "Pane width 0 pixels",
           "valuemax": 689,
           "valuemin": 256,
@@ -529,8 +522,8 @@
       ]
     },
     {
-      "role": "generic",
-      "name": "Breadcrumbs settings.jsonCopy pathMore file actionsMore file actionsLatest commitfelixfbecker commits by felixfbeckerAdd GitHub Actions (#4) Nov 8, 2020, 10:13 PM GMT+3 Commit 6a4dfcd  ·  Nov 8, 2020, 10:13 PM GMT+3 History Commit history Open commit details",
+      "role": "group",
+      "name": "",
       "children": [
         {
           "role": "heading",
@@ -579,8 +572,9 @@
           "name": ""
         },
         {
-          "role": "combobox",
+          "role": "button",
           "name": "More file actions",
+          "description": "More file actions",
           "haspopup": "menu"
         },
         {
@@ -608,8 +602,9 @@
           "name": ""
         },
         {
-          "role": "combobox",
+          "role": "button",
           "name": "More file actions",
+          "description": "More file actions",
           "haspopup": "menu"
         },
         {
@@ -638,12 +633,12 @@
           "name": ")"
         },
         {
-          "role": "link",
-          "name": "Commit 6a4dfcd"
+          "role": "StaticText",
+          "name": " · "
         },
         {
-          "role": "text",
-          "name": " · "
+          "role": "link",
+          "name": "Commit 6a4dfcd"
         },
         {
           "role": "heading",
@@ -688,11 +683,11 @@
         },
         {
           "role": "button",
-          "name": "Code"
+          "name": ""
         },
         {
           "role": "button",
-          "name": "Blame"
+          "name": ""
         },
         {
           "role": "button",
@@ -703,7 +698,7 @@
           "name": ""
         },
         {
-          "role": "text",
+          "role": "StaticText",
           "name": "9 lines (9 loc) · 167 Bytes"
         },
         {
@@ -724,7 +719,13 @@
         },
         {
           "role": "link",
-          "name": "Raw"
+          "name": "",
+          "children": [
+            {
+              "role": "StaticText",
+              "name": "Raw"
+            }
+          ]
         },
         {
           "role": "button",
@@ -752,13 +753,34 @@
           "pressed": false
         },
         {
-          "role": "combobox",
+          "role": "button",
           "name": "Edit and raw actions",
+          "description": "More file actions",
           "haspopup": "menu"
         },
         {
-          "role": "generic",
-          "name": "167 Bytes"
+          "role": "button",
+          "name": ""
+        },
+        {
+          "role": "button",
+          "name": ""
+        },
+        {
+          "role": "button",
+          "name": ""
+        },
+        {
+          "role": "button",
+          "name": ""
+        },
+        {
+          "role": "button",
+          "name": ""
+        },
+        {
+          "role": "button",
+          "name": ""
         },
         {
           "role": "textbox",
@@ -771,31 +793,7 @@
           "name": ""
         },
         {
-          "role": "button",
-          "name": ""
-        },
-        {
-          "role": "button",
-          "name": ""
-        },
-        {
-          "role": "button",
-          "name": ""
-        },
-        {
-          "role": "button",
-          "name": ""
-        },
-        {
-          "role": "button",
-          "name": ""
-        },
-        {
-          "role": "button",
-          "name": ""
-        },
-        {
-          "role": "generic",
+          "role": "group",
           "name": ""
         }
       ]
@@ -810,7 +808,8 @@
     },
     {
       "role": "link",
-      "name": "Homepage"
+      "name": "Homepage",
+      "description": "GitHub"
     },
     {
       "role": "link",
@@ -843,6 +842,18 @@
     {
       "role": "button",
       "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Dismiss error"
+    },
+    {
+      "role": "group",
+      "name": ""
+    },
+    {
+      "role": "StaticText",
+      "name": "While "
     }
   ]
 }

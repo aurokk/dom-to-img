@@ -1,14 +1,14 @@
 {
-  "role": "WebArea",
+  "role": "RootWebArea",
   "name": "",
   "children": [
     {
       "role": "link",
-      "name": "Gmail"
+      "name": "Gmail "
     },
     {
       "role": "link",
-      "name": "Search for Images"
+      "name": "Search for Images "
     },
     {
       "role": "button",
@@ -19,7 +19,7 @@
       "name": "Sign in"
     },
     {
-      "role": "img",
+      "role": "image",
       "name": "Google"
     },
     {
@@ -28,7 +28,9 @@
     },
     {
       "role": "combobox",
-      "name": "Search"
+      "name": "Search",
+      "description": "Search",
+      "haspopup": "listbox"
     },
     {
       "role": "button",
@@ -47,12 +49,13 @@
       "name": "Close Choose what you’re giving feedback on"
     },
     {
-      "role": "listbox",
+      "role": "button",
       "name": ""
     },
     {
-      "role": "option",
-      "name": ""
+      "role": "listbox",
+      "name": "",
+      "orientation": "vertical"
     },
     {
       "role": "button",
@@ -63,31 +66,11 @@
       "name": ""
     },
     {
-      "role": "option",
-      "name": ""
-    },
-    {
       "role": "button",
       "name": ""
     },
     {
-      "role": "option",
-      "name": ""
-    },
-    {
       "role": "button",
-      "name": ""
-    },
-    {
-      "role": "option",
-      "name": ""
-    },
-    {
-      "role": "button",
-      "name": ""
-    },
-    {
-      "role": "option",
       "name": ""
     },
     {
@@ -103,6 +86,10 @@
       "name": ""
     },
     {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
       "role": "button",
       "name": "Google Search"
     },
@@ -111,15 +98,15 @@
       "name": "I'm Feeling Lucky"
     },
     {
-      "role": "text",
-      "name": "Google offered in:"
+      "role": "StaticText",
+      "name": "Google offered in: "
     },
     {
       "role": "link",
       "name": "русский"
     },
     {
-      "role": "text",
+      "role": "StaticText",
       "name": "Russia"
     },
     {
@@ -147,8 +134,14 @@
       "name": "Terms"
     },
     {
+      "role": "button",
+      "name": "",
+      "haspopup": "menu"
+    },
+    {
       "role": "menu",
       "name": "",
+      "orientation": "vertical",
       "children": [
         {
           "role": "menuitem",
@@ -185,11 +178,6 @@
           ]
         }
       ]
-    },
-    {
-      "role": "combobox",
-      "name": "Settings",
-      "haspopup": "menu"
     },
     {
       "role": "textbox",

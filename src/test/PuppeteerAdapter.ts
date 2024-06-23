@@ -103,7 +103,7 @@ export class PuppeteerAdapter extends PollyAdapter {
 	 */
 	public onConnect(): void {
 		this.subscriptions.add(
-			fromEvent<Puppeteer.HTTPRequest>(this.page, 'request').subscribe(request => {
+			fromEvent<Puppeteer.HTTPRequest>(this.page as any, 'request').subscribe(request => {
 				const url = request.url()
 				const method = request.method()
 				const headers = request.headers()
@@ -128,7 +128,7 @@ export class PuppeteerAdapter extends PollyAdapter {
 			})
 		)
 		this.subscriptions.add(
-			fromEvent<Puppeteer.HTTPResponse>(this.page, 'response').subscribe(response => {
+			fromEvent<Puppeteer.HTTPResponse>(this.page as any, 'response').subscribe(response => {
 				const request = response.request()
 				if (this.pendingRequests.has(request)) {
 					this.pendingRequests

@@ -1,14 +1,42 @@
 {
-  "role": "WebArea",
+  "role": "RootWebArea",
   "name": "",
   "children": [
     {
       "role": "link",
-      "name": "RSS"
+      "name": " RSS "
     },
     {
       "role": "link",
       "name": ""
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
     },
     {
       "role": "link",
@@ -19,48 +47,24 @@
       "name": "new"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "past"
-    },
-    {
-      "role": "text",
-      "name": "|"
     },
     {
       "role": "link",
       "name": "comments"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "ask"
-    },
-    {
-      "role": "text",
-      "name": "|"
     },
     {
       "role": "link",
       "name": "show"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "jobs"
-    },
-    {
-      "role": "text",
-      "name": "|"
     },
     {
       "role": "link",
@@ -71,36 +75,58 @@
       "name": "login"
     },
     {
-      "role": "text",
+      "role": "StaticText",
       "name": "1."
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": " upvote "
     },
     {
       "role": "link",
       "name": "Never* Use Datagrams"
     },
     {
-      "role": "text",
-      "name": "("
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "link",
-      "name": "quic.video"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "19 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "quic.video"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "73 points"
     },
     {
       "role": "link",
@@ -108,55 +134,139 @@
     },
     {
       "role": "link",
-      "name": "47 minutes ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "2 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
-      "name": "9 comments"
+      "name": "58 comments"
     },
     {
-      "role": "text",
+      "role": "StaticText",
       "name": "2."
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "Fresh water on Earth emerged 500M years earlier than previously thought"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "curtin.edu.au"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "18 points"
+    },
+    {
+      "role": "link",
+      "name": "geox"
+    },
+    {
+      "role": "link",
+      "name": "2 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "8 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "3."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
     },
     {
       "role": "link",
       "name": "Why your brain is 3 milion more times efficient than GPT-4"
     },
     {
-      "role": "text",
-      "name": "("
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "link",
-      "name": "grski.pl"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "52 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "grski.pl"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "102 points"
     },
     {
       "role": "link",
@@ -164,55 +274,139 @@
     },
     {
       "role": "link",
-      "name": "1 hour ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "3 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "102 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "4."
     },
     {
       "role": "link",
-      "name": "46 comments"
-    },
-    {
-      "role": "text",
-      "name": "3."
+      "name": " upvote "
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": "Of Psion and Symbian"
     },
     {
-      "role": "link",
-      "name": "I've Stopped Using Box Plots. Should You?"
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "nightingaledvs.com"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "118 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "abortretry.fail"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "25 points"
+    },
+    {
+      "role": "link",
+      "name": "klelatti"
+    },
+    {
+      "role": "link",
+      "name": "3 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "4 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "5."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "I've Stopped Using Box Plots. Should You? (2021)"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "nightingaledvs.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "160 points"
     },
     {
       "role": "link",
@@ -220,167 +414,69 @@
     },
     {
       "role": "link",
-      "name": "4 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "5 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
-      "name": "91 comments"
+      "name": "127 comments"
     },
     {
-      "role": "text",
-      "name": "4."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "github.com/i365dev"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "107 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "madawei2699"
-    },
-    {
-      "role": "link",
-      "name": "6 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "69 comments"
-    },
-    {
-      "role": "text",
-      "name": "5."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "DOS game \"F15 SE II\" reversing: more stories and now on GitHub"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "github.com/neuviemeporte"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "29 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "LowLevelMahn"
-    },
-    {
-      "role": "link",
-      "name": "4 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "discuss"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": "6."
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": " upvote "
     },
     {
       "role": "link",
       "name": "Explained: The secret City of London which is not part of London"
     },
     {
-      "role": "text",
-      "name": "("
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "link",
-      "name": "thevintagenews.com"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "31 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "thevintagenews.com"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "59 points"
     },
     {
       "role": "link",
@@ -388,55 +484,457 @@
     },
     {
       "role": "link",
-      "name": "4 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "6 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
-      "name": "21 comments"
+      "name": "29 comments"
     },
     {
-      "role": "text",
+      "role": "StaticText",
       "name": "7."
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": "Deepnote (YC S19) is hiring engineers to build an AI data workspace"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "deepnote.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "link",
+      "name": "21 minutes ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "StaticText",
+      "name": "8."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "Identifying Leap Years (2020)"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "davecturner.github.io"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "10 points"
+    },
+    {
+      "role": "link",
+      "name": "g0xA52A2A"
+    },
+    {
+      "role": "link",
+      "name": "2 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "discuss"
+    },
+    {
+      "role": "StaticText",
+      "name": "9."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "Tonight with the Impressionists"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "mssv.net"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "3 points"
+    },
+    {
+      "role": "link",
+      "name": "adrianhon"
+    },
+    {
+      "role": "link",
+      "name": "1 hour ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "discuss"
+    },
+    {
+      "role": "StaticText",
+      "name": "10."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "DOS game \"F15 SE II\" reversing: more stories and now on GitHub"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "github.com/neuviemeporte"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "46 points"
+    },
+    {
+      "role": "link",
+      "name": "LowLevelMahn"
+    },
+    {
+      "role": "link",
+      "name": "6 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "5 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "11."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "A Study Says Warp Drives Might Be Real–and We'll Find Them with Lasers"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "popularmechanics.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "10 points"
+    },
+    {
+      "role": "link",
+      "name": "amichail"
+    },
+    {
+      "role": "link",
+      "name": "52 minutes ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "discuss"
+    },
+    {
+      "role": "StaticText",
+      "name": "12."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "BeyondCorp"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "research.google"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "7 points"
+    },
+    {
+      "role": "link",
+      "name": "udev4096"
+    },
+    {
+      "role": "link",
+      "name": "2 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "1 comment"
+    },
+    {
+      "role": "StaticText",
+      "name": "13."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
     },
     {
       "role": "link",
       "name": "SSH as a Sudo Replacement"
     },
     {
-      "role": "text",
-      "name": "("
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "link",
-      "name": "whynothugo.nl"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "129 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "whynothugo.nl"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "147 points"
     },
     {
       "role": "link",
@@ -444,727 +942,69 @@
     },
     {
       "role": "link",
-      "name": "11 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "13 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
-      "name": "74 comments"
+      "name": "83 comments"
     },
     {
-      "role": "text",
-      "name": "8."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "The biggest CRT ever made: Sony's PVM-4300"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "homeip.net"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "173 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "rbanffy"
-    },
-    {
-      "role": "link",
-      "name": "14 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "115 comments"
-    },
-    {
-      "role": "text",
-      "name": "9."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "The prevalence, persistence, and perils of lame delegations"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "apnic.net"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "3 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "fanf2"
-    },
-    {
-      "role": "link",
-      "name": "1 hour ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "discuss"
-    },
-    {
-      "role": "text",
-      "name": "10."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Shape Rotation 101: An Intro to Einsum and Jax Transformers"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "sankalp.bearblog.dev"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "67 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "dejavucoder"
-    },
-    {
-      "role": "link",
-      "name": "10 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "9 comments"
-    },
-    {
-      "role": "text",
-      "name": "11."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "The Pre-Scheme Restoration"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "prescheme.org"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "152 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "nickmain"
-    },
-    {
-      "role": "link",
-      "name": "14 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "46 comments"
-    },
-    {
-      "role": "text",
-      "name": "12."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Flambda2 Ep. 2: Loopifying Tail-Recursive Functions"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "ocamlpro.com"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "25 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "todsacerdoti"
-    },
-    {
-      "role": "link",
-      "name": "7 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "2 comments"
-    },
-    {
-      "role": "text",
-      "name": "13."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Virtually Hawaii"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "hawaii.edu"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "4 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "Tomte"
-    },
-    {
-      "role": "link",
-      "name": "3 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "discuss"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": "14."
     },
     {
       "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "ECMA-17: Graphical representation of control characters (1968) [pdf]"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "ecma-international.org"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "43 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "susam"
-    },
-    {
-      "role": "link",
-      "name": "8 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "7 comments"
-    },
-    {
-      "role": "text",
-      "name": "15."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Ruby: A great language for shell scripts"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "lucasoshiro.github.io"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "330 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "lucasoshiro"
-    },
-    {
-      "role": "link",
-      "name": "9 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "204 comments"
-    },
-    {
-      "role": "text",
-      "name": "16."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Testing AMD's Bergamo: Zen 4c"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "chipsandcheese.com"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "123 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "latchkey"
-    },
-    {
-      "role": "link",
-      "name": "16 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "67 comments"
-    },
-    {
-      "role": "text",
-      "name": "17."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Interface Upgrades in Go"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "avtok.com"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "26 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "panic"
-    },
-    {
-      "role": "link",
-      "name": "7 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "6 comments"
-    },
-    {
-      "role": "text",
-      "name": "18."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Pi Gazing is a project to build meteor cameras using Raspberry Pi"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "dcford.org.uk"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "91 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "b_emery"
-    },
-    {
-      "role": "link",
-      "name": "17 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "23 comments"
-    },
-    {
-      "role": "text",
-      "name": "19."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "I kind of like rebasing"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "rednafi.com"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "252 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "nalgeon"
-    },
-    {
-      "role": "link",
-      "name": "1 day ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "241 comments"
-    },
-    {
-      "role": "text",
-      "name": "20."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
+      "name": " upvote "
     },
     {
       "role": "link",
       "name": "Chimpanzees 'self-medicate' with healing plants"
     },
     {
-      "role": "text",
-      "name": "("
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "link",
-      "name": "bbc.com"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "8 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "bbc.com"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "30 points"
     },
     {
       "role": "link",
@@ -1172,391 +1012,839 @@
     },
     {
       "role": "link",
-      "name": "4 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "6 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "14 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "15."
     },
     {
       "role": "link",
-      "name": "1 comment"
-    },
-    {
-      "role": "text",
-      "name": "21."
+      "name": " upvote "
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": "Virtually Hawaii"
     },
     {
-      "role": "link",
-      "name": "Domino's retreats from Italy having failed to conquer the home of pizza (2022)"
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "theguardian.com"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "15 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "hawaii.edu"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "23 points"
     },
     {
       "role": "link",
-      "name": "thunderbong"
+      "name": "Tomte"
+    },
+    {
+      "role": "link",
+      "name": "4 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "2 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "16."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "The First Animal Ever Found That Doesn't Need Oxygen to Survive"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "sciencealert.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "35 points"
+    },
+    {
+      "role": "link",
+      "name": "georgecmu"
     },
     {
       "role": "link",
       "name": "2 hours ago"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "9 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "17."
     },
     {
       "role": "link",
-      "name": "37 comments"
-    },
-    {
-      "role": "text",
-      "name": "22."
+      "name": " upvote "
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": "The biggest CRT ever made: Sony's PVM-4300"
     },
     {
-      "role": "link",
-      "name": "Aphantasia: I can not picture things in my mind"
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "theguardian.com"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "119 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "homeip.net"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "190 points"
     },
     {
       "role": "link",
-      "name": "franze"
+      "name": "rbanffy"
     },
     {
       "role": "link",
       "name": "16 hours ago"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "124 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "18."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "Coverage at a Crossroads"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "nedbatchelder.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "5 points"
+    },
+    {
+      "role": "link",
+      "name": "asicsp"
+    },
+    {
+      "role": "link",
+      "name": "3 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "discuss"
+    },
+    {
+      "role": "StaticText",
+      "name": "19."
     },
     {
       "role": "link",
-      "name": "225 comments"
-    },
-    {
-      "role": "text",
-      "name": "23."
+      "name": " upvote "
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": "The prevalence, persistence, and perils of lame delegations"
     },
     {
-      "role": "link",
-      "name": "OpenEMR: Open-source medical record software"
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "open-emr.org"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "83 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "apnic.net"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "6 points"
     },
     {
       "role": "link",
-      "name": "thunderbong"
+      "name": "fanf2"
     },
     {
       "role": "link",
-      "name": "10 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "3 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "discuss"
+    },
+    {
+      "role": "StaticText",
+      "name": "20."
     },
     {
       "role": "link",
-      "name": "61 comments"
-    },
-    {
-      "role": "text",
-      "name": "24."
+      "name": " upvote "
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": "Shape Rotation 101: An Intro to Einsum and Jax Transformers"
     },
     {
-      "role": "link",
-      "name": "HybridNeRF: Efficient Neural Rendering"
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "haithemturki.com"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "145 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "sankalp.bearblog.dev"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "80 points"
     },
     {
       "role": "link",
-      "name": "tzmlab"
-    },
-    {
-      "role": "link",
-      "name": "20 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "46 comments"
-    },
-    {
-      "role": "text",
-      "name": "25."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Hope without optimism – transcription of a talk by Dave Snowden (2022)"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "gist.github.com"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "46 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "owulveryck"
+      "name": "dejavucoder"
     },
     {
       "role": "link",
       "name": "12 hours ago"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "10 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "21."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "github.com/i365dev"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "127 points"
+    },
+    {
+      "role": "link",
+      "name": "madawei2699"
+    },
+    {
+      "role": "link",
+      "name": "8 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "85 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "22."
     },
     {
       "role": "link",
-      "name": "13 comments"
+      "name": " upvote "
     },
     {
-      "role": "text",
+      "role": "link",
+      "name": "Interface Upgrades in Go"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "avtok.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "41 points"
+    },
+    {
+      "role": "link",
+      "name": "panic"
+    },
+    {
+      "role": "link",
+      "name": "8 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "10 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "23."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "The Pre-Scheme Restoration"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "prescheme.org"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "160 points"
+    },
+    {
+      "role": "link",
+      "name": "nickmain"
+    },
+    {
+      "role": "link",
+      "name": "16 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "46 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "24."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "ECMA-17: Graphical representation of control characters (1968) [pdf]"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "ecma-international.org"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "48 points"
+    },
+    {
+      "role": "link",
+      "name": "susam"
+    },
+    {
+      "role": "link",
+      "name": "10 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "10 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "25."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "Flambda2 Ep. 2: Loopifying Tail-Recursive Functions"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "ocamlpro.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "30 points"
+    },
+    {
+      "role": "link",
+      "name": "todsacerdoti"
+    },
+    {
+      "role": "link",
+      "name": "9 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "3 comments"
+    },
+    {
+      "role": "StaticText",
       "name": "26."
     },
     {
       "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "After my dad died, I ran and sold his company (2018)"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "anandsanwal.me"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "705 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "ziptron"
-    },
-    {
-      "role": "link",
-      "name": "21 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "100 comments"
-    },
-    {
-      "role": "text",
-      "name": "27."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
+      "name": " upvote "
     },
     {
       "role": "link",
       "name": "Words you can spell with a calculator"
     },
     {
-      "role": "text",
-      "name": "("
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "link",
-      "name": "paperlined.org"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "28 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "paperlined.org"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "46 points"
     },
     {
       "role": "link",
@@ -1564,235 +1852,363 @@
     },
     {
       "role": "link",
-      "name": "8 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
+      "name": "10 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "link",
+      "name": "22 comments"
+    },
+    {
+      "role": "StaticText",
+      "name": "27."
     },
     {
       "role": "link",
-      "name": "19 comments"
+      "name": " upvote "
     },
     {
-      "role": "text",
+      "role": "link",
+      "name": "Testing AMD's Bergamo: Zen 4c"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "chipsandcheese.com"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "129 points"
+    },
+    {
+      "role": "link",
+      "name": "latchkey"
+    },
+    {
+      "role": "link",
+      "name": "18 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "74 comments"
+    },
+    {
+      "role": "StaticText",
       "name": "28."
     },
     {
       "role": "link",
-      "name": "Charge Robotics (YC S21) is hiring SWEs to build solar construction robots"
-    },
-    {
-      "role": "text",
-      "name": "("
+      "name": " upvote "
     },
     {
       "role": "link",
-      "name": "workatastartup.com"
+      "name": "Germany's autobahn bridges falling apart"
     },
     {
-      "role": "text",
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
       "name": ")"
     },
     {
       "role": "link",
-      "name": "13 hours ago"
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "dw.com"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "28 points"
+    },
+    {
+      "role": "link",
+      "name": "belter"
+    },
+    {
+      "role": "link",
+      "name": "2 hours ago"
     },
     {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
+      "role": "link",
+      "name": "26 comments"
+    },
+    {
+      "role": "StaticText",
       "name": "29."
     },
     {
       "role": "link",
-      "name": "upvote"
+      "name": " upvote "
     },
     {
       "role": "link",
-      "name": "Delving into ChatGPT usage in academic writing through excess vocabulary"
+      "name": "Just open-sourced E25DX: a modern Hugo theme for tech documentations"
     },
     {
-      "role": "text",
-      "name": "("
+      "role": "StaticText",
+      "name": " ("
     },
     {
-      "role": "link",
-      "name": "arxiv.org"
-    },
-    {
-      "role": "text",
+      "role": "StaticText",
       "name": ")"
     },
     {
-      "role": "text",
-      "name": "131 points"
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "github.com/dumindu"
+        }
+      ]
     },
     {
-      "role": "text",
-      "name": "by"
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "3 points"
     },
     {
       "role": "link",
-      "name": "zdw"
+      "name": "dumindunuwan"
+    },
+    {
+      "role": "link",
+      "name": "3 hours ago"
+    },
+    {
+      "role": "link",
+      "name": "hide"
+    },
+    {
+      "role": "link",
+      "name": "1 comment"
+    },
+    {
+      "role": "StaticText",
+      "name": "30."
+    },
+    {
+      "role": "link",
+      "name": " upvote "
+    },
+    {
+      "role": "link",
+      "name": "Ruby: A great language for shell scripts"
+    },
+    {
+      "role": "StaticText",
+      "name": " ("
+    },
+    {
+      "role": "StaticText",
+      "name": ")"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "children": [
+        {
+          "role": "StaticText",
+          "name": "lucasoshiro.github.io"
+        }
+      ]
+    },
+    {
+      "role": "StaticText",
+      "name": " by "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": " "
+    },
+    {
+      "role": "StaticText",
+      "name": "| "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": "350 points"
+    },
+    {
+      "role": "link",
+      "name": "lucasoshiro"
     },
     {
       "role": "link",
       "name": "11 hours ago"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "hide"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
-      "name": "69 comments"
-    },
-    {
-      "role": "text",
-      "name": "30."
-    },
-    {
-      "role": "link",
-      "name": "upvote"
-    },
-    {
-      "role": "link",
-      "name": "Andrew S. Tanenbaum Receives ACM Software System Award"
-    },
-    {
-      "role": "text",
-      "name": "("
-    },
-    {
-      "role": "link",
-      "name": "vu.nl"
-    },
-    {
-      "role": "text",
-      "name": ")"
-    },
-    {
-      "role": "text",
-      "name": "322 points"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "link",
-      "name": "JacobAldridge"
-    },
-    {
-      "role": "link",
-      "name": "20 hours ago"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "hide"
-    },
-    {
-      "role": "text",
-      "name": "|"
-    },
-    {
-      "role": "link",
-      "name": "72 comments"
+      "name": "220 comments"
     },
     {
       "role": "link",
       "name": "More"
     },
     {
-      "role": "link",
-      "name": "Guidelines"
+      "role": "StaticText",
+      "name": " | "
     },
     {
-      "role": "text",
-      "name": "|"
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "StaticText",
+      "name": " | "
+    },
+    {
+      "role": "link",
+      "name": "Guidelines"
     },
     {
       "role": "link",
       "name": "FAQ"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "Lists"
-    },
-    {
-      "role": "text",
-      "name": "|"
     },
     {
       "role": "link",
       "name": "API"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "Security"
-    },
-    {
-      "role": "text",
-      "name": "|"
     },
     {
       "role": "link",
       "name": "Legal"
     },
     {
-      "role": "text",
-      "name": "|"
-    },
-    {
       "role": "link",
       "name": "Apply to YC"
-    },
-    {
-      "role": "text",
-      "name": "|"
     },
     {
       "role": "link",
       "name": "Contact"
     },
     {
-      "role": "text",
-      "name": "Search:"
+      "role": "StaticText",
+      "name": "Search: "
     }
   ]
 }
