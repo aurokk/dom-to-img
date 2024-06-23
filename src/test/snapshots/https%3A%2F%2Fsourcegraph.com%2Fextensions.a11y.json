@@ -4,921 +4,976 @@
   "children": [
     {
       "role": "link",
-      "name": "Sourcegraph Search"
-    },
-    {
-      "role": "text",
-      "name": "Your Sourcegraph license"
-    },
-    {
-      "role": "text",
-      "name": "expired 3 years ago"
-    },
-    {
-      "role": "text",
-      "name": ". "
+      "name": "Sourcegraph - Universal code search"
     },
     {
       "role": "link",
-      "name": "Renew now"
-    },
-    {
-      "role": "text",
-      "name": " or "
+      "name": "GitHub"
     },
     {
       "role": "link",
-      "name": "contact Sourcegraph"
-    },
-    {
-      "role": "button",
-      "name": ""
+      "name": "Twitter"
     },
     {
       "role": "link",
-      "name": ""
-    },
-    {
-      "role": "textbox",
-      "name": "Editor content;Press Alt+F1 for Accessibility Options.",
-      "multiline": true,
-      "autocomplete": "both"
-    },
-    {
-      "role": "checkbox",
-      "name": "Case sensitivity toggle",
-      "checked": false
-    },
-    {
-      "role": "checkbox",
-      "name": "Regular expression toggle",
-      "checked": false
-    },
-    {
-      "role": "checkbox",
-      "name": "Structural search toggle",
-      "checked": false
-    },
-    {
-      "role": "button",
-      "name": "Search"
-    },
-    {
-      "role": "generic",
-      "name": "Quick help for search",
-      "haspopup": "menu"
+      "name": "Discord"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "LinkedIn"
     },
     {
       "role": "link",
-      "name": "Extensions"
+      "name": "YouTube"
     },
     {
       "role": "link",
-      "name": "Campaigns"
+      "name": "Spotify"
+    },
+    {
+      "role": "heading",
+      "name": "Products",
+      "level": 2
     },
     {
       "role": "link",
-      "name": "Sign in"
+      "name": "Cody"
     },
     {
       "role": "link",
-      "name": "Docs"
+      "name": "Code Search"
+    },
+    {
+      "role": "heading",
+      "name": "Solutions",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Enterprise"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Library"
+    },
+    {
+      "role": "link",
+      "name": "Newsletter"
+    },
+    {
+      "role": "link",
+      "name": "Customer stories"
+    },
+    {
+      "role": "link",
+      "name": "Changelog"
+    },
+    {
+      "role": "link",
+      "name": "Documentation"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "Support forum"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
     },
     {
       "role": "link",
       "name": "About"
     },
     {
-      "role": "button",
-      "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Extensions",
-      "level": 1
+      "role": "link",
+      "name": "Careers - We're hiring!"
     },
     {
       "role": "link",
-      "name": "Create new extension"
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "Handbook"
+    },
+    {
+      "role": "link",
+      "name": "Sourcegraph strategy"
     },
     {
       "role": "text",
-      "name": "Improve your workflow with code intelligence, test coverage, and other useful information."
+      "name": "©"
     },
     {
-      "role": "button",
-      "name": "Reports and stats"
+      "role": "text",
+      "name": "2024"
     },
     {
-      "role": "button",
-      "name": "External services"
+      "role": "text",
+      "name": "Sourcegraph, Inc."
     },
     {
-      "role": "button",
-      "name": "Linters"
+      "role": "link",
+      "name": "Terms"
     },
     {
-      "role": "button",
-      "name": "Code editors"
+      "role": "link",
+      "name": "Security"
     },
     {
-      "role": "button",
-      "name": "Code analysis"
+      "role": "link",
+      "name": "Privacy"
     },
     {
-      "role": "button",
-      "name": "Programming languages"
+      "role": "text",
+      "name": "AI Dev Tools Night: Come to our upcoming meetup in SF!"
     },
     {
-      "role": "button",
-      "name": "Other"
+      "role": "link",
+      "name": "AI Dev Tools Night"
+    },
+    {
+      "role": "link",
+      "name": "Sourcegraph - Code Intelligence Platform"
     },
     {
       "role": "combobox",
-      "name": "Show all",
+      "name": "Products",
       "haspopup": "menu"
     },
     {
-      "role": "text",
-      "name": "An account is required to create, enable and disable extensions."
-    },
-    {
-      "role": "link",
-      "name": "Register now!"
-    },
-    {
-      "role": "heading",
-      "name": "Reports and stats",
-      "level": 3
-    },
-    {
-      "role": "link",
-      "name": "code-ownership"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "See code owners of the current file"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "search-export"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "Export search results as CSV"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "sourcegraph-test-leaderboard"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "WIP"
-    },
-    {
-      "role": "text",
-      "name": "Who writes the most tests? (In each repository and subdirectory.)"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "search-insights"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "WIP"
-    },
-    {
-      "role": "text",
-      "name": "Provides code insights from code searches"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "heading",
-      "name": "External services",
-      "level": 3
-    },
-    {
-      "role": "link",
-      "name": "codecov"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "Shows code coverage from Codecov"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "datadog-metrics"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "Jump to Datadog metrics from statsd calls in code"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "lightstep"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "View live traces on LightStep for OpenTracing spans in your code"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "sentry"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "Sourcegraph Sentry extension renders \"View logs on Sentry\" links next to error handling code."
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "sonarqube"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "Show Sonarqube issues when browsing files on Sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": "hubspot"
-    },
-    {
-      "role": "text",
-      "name": "by"
-    },
-    {
-      "role": "text",
-      "name": "sourcegraph"
-    },
-    {
-      "role": "text",
-      "name": "WIP"
-    },
-    {
-      "role": "text",
-      "name": "HubSpot link previews and customer autocompletion (by name) on GitHub"
-    },
-    {
-      "role": "text",
-      "name": "Disabled"
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
       "role": "link",
-      "name": ""
+      "name": "Pricing"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "Enterprise"
     },
     {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
+      "role": "combobox",
+      "name": "Resources",
+      "haspopup": "menu"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "Search public code"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "Contact sales"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "Get started with Cody"
     },
     {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
+      "role": "button",
+      "name": "Download Sourcegraph"
     },
     {
       "role": "button",
       "name": ""
     },
     {
+      "role": "heading",
+      "name": "Understand and write code blazingly fast",
+      "level": 1
+    },
+    {
+      "role": "text",
+      "name": "Sourcegraph allows developers to rapidly search, write, and"
+    },
+    {
+      "role": "text",
+      "name": "understand code by bringing insights from their entire codebase"
+    },
+    {
+      "role": "text",
+      "name": "right into the editor"
+    },
+    {
+      "role": "button",
+      "name": "free cody"
+    },
+    {
+      "role": "text",
+      "name": "OVER 2.5M ENGINEERS USE SOURCEGRAPH"
+    },
+    {
+      "role": "img",
+      "name": "slide-0"
+    },
+    {
+      "role": "img",
+      "name": "slide-1"
+    },
+    {
+      "role": "img",
+      "name": "slide-2"
+    },
+    {
+      "role": "img",
+      "name": "slide-3"
+    },
+    {
+      "role": "img",
+      "name": "slide-4"
+    },
+    {
+      "role": "img",
+      "name": "slide-5"
+    },
+    {
+      "role": "img",
+      "name": "slide-6"
+    },
+    {
+      "role": "img",
+      "name": "slide-7"
+    },
+    {
+      "role": "img",
+      "name": "slide-8"
+    },
+    {
+      "role": "img",
+      "name": "slide-9"
+    },
+    {
+      "role": "img",
+      "name": "slide-10"
+    },
+    {
+      "role": "img",
+      "name": "slide-11"
+    },
+    {
+      "role": "img",
+      "name": "slide-12"
+    },
+    {
+      "role": "img",
+      "name": "slide-13"
+    },
+    {
+      "role": "img",
+      "name": "slide-14"
+    },
+    {
+      "role": "img",
+      "name": "slide-15"
+    },
+    {
+      "role": "img",
+      "name": "slide-16"
+    },
+    {
+      "role": "img",
+      "name": "slide-17"
+    },
+    {
+      "role": "img",
+      "name": "slide-18"
+    },
+    {
+      "role": "img",
+      "name": "slide-19"
+    },
+    {
+      "role": "img",
+      "name": "slide-20"
+    },
+    {
+      "role": "img",
+      "name": "slide-21"
+    },
+    {
+      "role": "img",
+      "name": "slide-22"
+    },
+    {
+      "role": "img",
+      "name": "slide-23"
+    },
+    {
+      "role": "img",
+      "name": "slide-24"
+    },
+    {
+      "role": "img",
+      "name": "slide-25"
+    },
+    {
+      "role": "img",
+      "name": "slide-26"
+    },
+    {
+      "role": "img",
+      "name": "slide-27"
+    },
+    {
+      "role": "img",
+      "name": "slide-28"
+    },
+    {
+      "role": "img",
+      "name": "slide-29"
+    },
+    {
+      "role": "img",
+      "name": "slide-30"
+    },
+    {
+      "role": "img",
+      "name": "slide-31"
+    },
+    {
+      "role": "img",
+      "name": "slide-32"
+    },
+    {
+      "role": "img",
+      "name": "slide-33"
+    },
+    {
+      "role": "img",
+      "name": "slide-34"
+    },
+    {
+      "role": "img",
+      "name": "slide-35"
+    },
+    {
+      "role": "img",
+      "name": "slide-36"
+    },
+    {
+      "role": "img",
+      "name": "slide-37"
+    },
+    {
+      "role": "img",
+      "name": "slide-38"
+    },
+    {
+      "role": "img",
+      "name": "slide-39"
+    },
+    {
+      "role": "img",
+      "name": "slide-40"
+    },
+    {
+      "role": "img",
+      "name": "slide-41"
+    },
+    {
+      "role": "img",
+      "name": "slide-42"
+    },
+    {
+      "role": "img",
+      "name": "slide-43"
+    },
+    {
+      "role": "img",
+      "name": "slide-44"
+    },
+    {
+      "role": "img",
+      "name": "slide-45"
+    },
+    {
+      "role": "img",
+      "name": "slide-46"
+    },
+    {
+      "role": "img",
+      "name": "slide-47"
+    },
+    {
+      "role": "img",
+      "name": "slide-48"
+    },
+    {
+      "role": "img",
+      "name": "slide-49"
+    },
+    {
+      "role": "img",
+      "name": "slide-50"
+    },
+    {
+      "role": "img",
+      "name": "slide-51"
+    },
+    {
+      "role": "img",
+      "name": "slide-52"
+    },
+    {
+      "role": "img",
+      "name": "slide-53"
+    },
+    {
+      "role": "img",
+      "name": "slide-54"
+    },
+    {
+      "role": "img",
+      "name": "slide-55"
+    },
+    {
+      "role": "img",
+      "name": "slide-56"
+    },
+    {
+      "role": "img",
+      "name": "slide-57"
+    },
+    {
+      "role": "img",
+      "name": "slide-58"
+    },
+    {
+      "role": "img",
+      "name": "slide-59"
+    },
+    {
+      "role": "img",
+      "name": "slide-60"
+    },
+    {
+      "role": "img",
+      "name": "slide-61"
+    },
+    {
+      "role": "img",
+      "name": "slide-62"
+    },
+    {
+      "role": "img",
+      "name": "slide-63"
+    },
+    {
+      "role": "img",
+      "name": "slide-0"
+    },
+    {
+      "role": "img",
+      "name": "slide-1"
+    },
+    {
+      "role": "img",
+      "name": "slide-2"
+    },
+    {
+      "role": "img",
+      "name": "slide-3"
+    },
+    {
+      "role": "img",
+      "name": "slide-4"
+    },
+    {
+      "role": "img",
+      "name": "slide-5"
+    },
+    {
+      "role": "img",
+      "name": "slide-6"
+    },
+    {
+      "role": "img",
+      "name": "slide-7"
+    },
+    {
+      "role": "img",
+      "name": "slide-8"
+    },
+    {
+      "role": "img",
+      "name": "slide-9"
+    },
+    {
+      "role": "img",
+      "name": "slide-10"
+    },
+    {
+      "role": "img",
+      "name": "slide-11"
+    },
+    {
+      "role": "img",
+      "name": "slide-12"
+    },
+    {
+      "role": "img",
+      "name": "slide-13"
+    },
+    {
+      "role": "img",
+      "name": "slide-14"
+    },
+    {
+      "role": "img",
+      "name": "slide-15"
+    },
+    {
+      "role": "img",
+      "name": "slide-16"
+    },
+    {
+      "role": "img",
+      "name": "slide-17"
+    },
+    {
+      "role": "img",
+      "name": "slide-18"
+    },
+    {
+      "role": "img",
+      "name": "slide-19"
+    },
+    {
+      "role": "img",
+      "name": "slide-20"
+    },
+    {
+      "role": "img",
+      "name": "slide-21"
+    },
+    {
+      "role": "img",
+      "name": "slide-22"
+    },
+    {
+      "role": "img",
+      "name": "slide-23"
+    },
+    {
+      "role": "img",
+      "name": "slide-24"
+    },
+    {
+      "role": "img",
+      "name": "slide-25"
+    },
+    {
+      "role": "img",
+      "name": "slide-26"
+    },
+    {
+      "role": "img",
+      "name": "slide-27"
+    },
+    {
+      "role": "img",
+      "name": "slide-28"
+    },
+    {
+      "role": "img",
+      "name": "slide-29"
+    },
+    {
+      "role": "img",
+      "name": "slide-30"
+    },
+    {
+      "role": "img",
+      "name": "slide-31"
+    },
+    {
+      "role": "img",
+      "name": "slide-32"
+    },
+    {
+      "role": "img",
+      "name": "slide-33"
+    },
+    {
+      "role": "img",
+      "name": "slide-34"
+    },
+    {
+      "role": "img",
+      "name": "slide-35"
+    },
+    {
+      "role": "img",
+      "name": "slide-36"
+    },
+    {
+      "role": "img",
+      "name": "slide-37"
+    },
+    {
+      "role": "img",
+      "name": "slide-38"
+    },
+    {
+      "role": "img",
+      "name": "slide-39"
+    },
+    {
+      "role": "img",
+      "name": "slide-40"
+    },
+    {
+      "role": "img",
+      "name": "slide-41"
+    },
+    {
+      "role": "img",
+      "name": "slide-42"
+    },
+    {
+      "role": "img",
+      "name": "slide-43"
+    },
+    {
+      "role": "img",
+      "name": "slide-44"
+    },
+    {
+      "role": "img",
+      "name": "slide-45"
+    },
+    {
+      "role": "img",
+      "name": "slide-46"
+    },
+    {
+      "role": "img",
+      "name": "slide-47"
+    },
+    {
+      "role": "img",
+      "name": "slide-48"
+    },
+    {
+      "role": "img",
+      "name": "slide-49"
+    },
+    {
+      "role": "img",
+      "name": "slide-50"
+    },
+    {
+      "role": "img",
+      "name": "slide-51"
+    },
+    {
+      "role": "img",
+      "name": "slide-52"
+    },
+    {
+      "role": "img",
+      "name": "slide-53"
+    },
+    {
+      "role": "img",
+      "name": "slide-54"
+    },
+    {
+      "role": "img",
+      "name": "slide-55"
+    },
+    {
+      "role": "img",
+      "name": "slide-56"
+    },
+    {
+      "role": "img",
+      "name": "slide-57"
+    },
+    {
+      "role": "img",
+      "name": "slide-58"
+    },
+    {
+      "role": "img",
+      "name": "slide-59"
+    },
+    {
+      "role": "img",
+      "name": "slide-60"
+    },
+    {
+      "role": "img",
+      "name": "slide-61"
+    },
+    {
+      "role": "img",
+      "name": "slide-62"
+    },
+    {
+      "role": "img",
+      "name": "slide-63"
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "heading",
+      "name": "Find and fix code",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Find what you need in milliseconds across all of your code–no matter where it lives.",
+      "level": 3
+    },
+    {
+      "role": "img",
+      "name": "Multiline Completion"
+    },
+    {
+      "role": "img",
+      "name": "Cody Product logo"
+    },
+    {
+      "role": "heading",
+      "name": "Cody",
+      "level": 1
+    },
+    {
+      "role": "heading",
+      "name": "Ship code faster with Cody, the AI coding assistant. Cody uses advanced search and codebase context to help you write and fix code.",
+      "level": 3
+    },
+    {
+      "role": "img",
+      "name": "Cody Product logo"
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "heading",
+      "name": "Faster coding with autocomplete",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Suggestions for single lines or whole functions, in any programming language, configuration file, or docs.",
+      "level": 3
+    },
+    {
+      "role": "img",
+      "name": "Multiline Completion"
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "heading",
+      "name": "Get help with context-aware chat",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Query like a human and learn about your code, or get help with tricky problems.",
+      "level": 3
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "heading",
+      "name": "Automate workflows with commands",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Build and personalize commands that automate common tasks. Explain code or generate unit tests in seconds.",
+      "level": 3
+    },
+    {
       "role": "link",
-      "name": ""
+      "name": "Cody"
+    },
+    {
+      "role": "img",
+      "name": "Cody Product logo"
+    },
+    {
+      "role": "heading",
+      "name": "Code Search",
+      "level": 1
+    },
+    {
+      "role": "heading",
+      "name": "Search your entire codebase—every code host and repository, at any scale—in a single place. Code Search makes it easy for developers to onboard to new codebases, understand code faster, and find & fix security risks.",
+      "level": 3
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "text",
+      "name": "Vito Baggiolini"
+    },
+    {
+      "role": "text",
+      "name": "Senior Software Engineer, CERN"
+    },
+    {
+      "role": "text",
+      "name": "Sourcegraph is extremely valuable for what we do. It"
+    },
+    {
+      "role": "text",
+      "name": "enables us to easily clean up deprecated APIs and"
+    },
+    {
+      "role": "text",
+      "name": "estimate the risks and costs of our API's evolution."
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "text",
+      "name": "Bryce Kalow"
+    },
+    {
+      "role": "text",
+      "name": "Senior Web Engineer, HashiCorp"
+    },
+    {
+      "role": "text",
+      "name": "By its nature and capabilities, Sourcegraph can be a tool"
+    },
+    {
+      "role": "text",
+      "name": "to reduce friction, speed up feedback loops, and"
+    },
+    {
+      "role": "text",
+      "name": "improve developer velocity."
+    },
+    {
+      "role": "img",
+      "name": "Cody Search"
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "heading",
+      "name": "Track trends in your codebase",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Transform your code into a queryable database to create custom dashboards in seconds.",
+      "level": 3
+    },
+    {
+      "role": "img",
+      "name": "Completions Brand Icon"
+    },
+    {
+      "role": "heading",
+      "name": "Automate large-scale code changes",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Find and make changes across your codebase in one go, whether a version change or a vulnerability fix.",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": "Code Search"
+    },
+    {
+      "role": "text",
+      "name": "Aneesh Agrawal"
+    },
+    {
+      "role": "text",
+      "name": "Software Engineer, Lyft"
+    },
+    {
+      "role": "text",
+      "name": "Sourcegraph makes it easy to survey and"
+    },
+    {
+      "role": "text",
+      "name": "understand existing use cases to make sure we"
+    },
+    {
+      "role": "text",
+      "name": "build the right thing."
+    },
+    {
+      "role": "link",
+      "name": "Case study"
+    },
+    {
+      "role": "heading",
+      "name": "Get started with Cody",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Use Cody for free in your IDE, no credit card required."
+    },
+    {
+      "role": "button",
+      "name": "free cody"
+    },
+    {
+      "role": "heading",
+      "name": "Cody Enterprise",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Cody Enterprise provides additional security, scalability,"
+    },
+    {
+      "role": "text",
+      "name": "and control for your organization. Unlimited usage and"
+    },
+    {
+      "role": "text",
+      "name": "context search for your entire codebase."
+    },
+    {
+      "role": "link",
+      "name": "Get Cody for Enterprise"
+    },
+    {
+      "role": "link",
+      "name": "See pricing"
+    },
+    {
+      "role": "img",
+      "name": "Cookiebot session tracker icon loaded"
     }
   ]
 }

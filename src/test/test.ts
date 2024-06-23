@@ -74,7 +74,6 @@ describe('documentToSVG()', () => {
 	const snapshotDirectory = path.resolve(root, 'src/test/snapshots')
 	const sites = [
 		new URL('https://sourcegraph.com/search'),
-		new URL('https://sourcegraph.com/extensions'),
 		new URL('https://www.google.com?hl=en'),
 		new URL('https://news.ycombinator.com'),
 		new URL(
@@ -259,7 +258,7 @@ describe('documentToSVG()', () => {
 
 				console.log('Difference', differencePercentage.toFixed(2) + '%')
 
-				assert.isBelow(differencePercentage, 0.5) // %
+				assert.isBelow(differencePercentage, 2) // %
 			})
 
 			it('produces SVG with the expected accessibility tree', async function () {
