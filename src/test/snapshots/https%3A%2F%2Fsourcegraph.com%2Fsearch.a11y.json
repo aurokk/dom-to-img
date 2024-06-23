@@ -8,41 +8,39 @@
     },
     {
       "role": "link",
-      "name": "Extensions"
+      "name": "Sourcegraph logo"
     },
     {
       "role": "link",
-      "name": "Campaigns"
+      "name": "Code Search"
+    },
+    {
+      "role": "link",
+      "name": "Cody AI"
+    },
+    {
+      "role": "link",
+      "name": "About Sourcegraph"
     },
     {
       "role": "link",
       "name": "Sign in"
     },
     {
-      "role": "link",
-      "name": "Docs"
-    },
-    {
-      "role": "link",
-      "name": "About"
-    },
-    {
       "role": "button",
-      "name": ""
-    },
-    {
-      "role": "text",
-      "name": "Search public code"
+      "name": "Open search history"
     },
     {
       "role": "generic",
-      "name": "Show Fixes"
-    },
-    {
-      "role": "textbox",
-      "name": "Editor content;Press Alt+F1 for Accessibility Options.",
-      "multiline": true,
-      "autocomplete": "both"
+      "name": "",
+      "children": [
+        {
+          "role": "combobox",
+          "name": "Search query",
+          "expanded": true,
+          "haspopup": "grid"
+        }
+      ]
     },
     {
       "role": "checkbox",
@@ -55,192 +53,177 @@
       "checked": false
     },
     {
-      "role": "checkbox",
-      "name": "Structural search toggle",
-      "checked": false
-    },
-    {
-      "role": "button",
-      "name": "Search"
-    },
-    {
-      "role": "heading",
-      "name": "Search in repository groups",
-      "level": 3
+      "role": "img",
+      "name": "Sourcegraph logo"
     },
     {
       "role": "text",
-      "name": "repogroup:"
+      "name": "Code search and an AI assistant with the context of the code graph."
     },
     {
-      "role": "text",
-      "name": "name"
+      "role": "tab",
+      "name": "How to search",
+      "selected": true
     },
     {
-      "role": "link",
-      "name": "Cloud Native Computing Foundation (CNCF)"
+      "role": "tab",
+      "name": "Popular queries"
     },
     {
-      "role": "text",
-      "name": "Search CNCF projects."
+      "role": "tabpanel",
+      "name": "How to search",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Search in files, paths, and repository-names",
+          "level": 2
+        },
+        {
+          "role": "link",
+          "name": "testserver"
+        },
+        {
+          "role": "text",
+          "name": "(both terms anywhere)"
+        },
+        {
+          "role": "text",
+          "name": "This feature is currently in new"
+        },
+        {
+          "role": "link",
+          "name": "\"Error1001\""
+        },
+        {
+          "role": "text",
+          "name": "(specific string)"
+        },
+        {
+          "role": "text",
+          "name": "This feature is currently in new"
+        },
+        {
+          "role": "link",
+          "name": "\"\\\"Error1001\\\"\""
+        },
+        {
+          "role": "text",
+          "name": "(specific string containing quotes)"
+        },
+        {
+          "role": "text",
+          "name": "This feature is currently in new"
+        },
+        {
+          "role": "link",
+          "name": "fooORbar"
+        },
+        {
+          "role": "link",
+          "name": "/open(File|Dir)/"
+        },
+        {
+          "role": "text",
+          "name": "(regular expression)"
+        },
+        {
+          "role": "heading",
+          "name": "Search in commit diffs",
+          "level": 2
+        },
+        {
+          "role": "link",
+          "name": "type:diffafter:1weekfix"
+        },
+        {
+          "role": "link",
+          "name": "type:diffauthor:aliceadd"
+        },
+        {
+          "role": "heading",
+          "name": "Filter by...",
+          "level": 2
+        },
+        {
+          "role": "link",
+          "name": "file:testfoo"
+        },
+        {
+          "role": "link",
+          "name": "repo:facebook/react"
+        },
+        {
+          "role": "link",
+          "name": "repo:kubernetes/"
+        },
+        {
+          "role": "text",
+          "name": "(all repositories in org)"
+        },
+        {
+          "role": "link",
+          "name": "lang:javascript"
+        },
+        {
+          "role": "heading",
+          "name": "Advanced",
+          "level": 2
+        },
+        {
+          "role": "link",
+          "name": "repo:has.description(foo)"
+        },
+        {
+          "role": "link",
+          "name": "file:^some_pathfile:has.owner(alice)"
+        },
+        {
+          "role": "link",
+          "name": "file:^some_pathselect:file.owners"
+        },
+        {
+          "role": "link",
+          "name": "file:has.commit.after(1week)"
+        },
+        {
+          "role": "link",
+          "name": "Complete query reference Open in a new tab"
+        }
+      ]
     },
     {
-      "role": "link",
-      "name": "Refactor Python 2 to 3"
-    },
-    {
-      "role": "text",
-      "name": "Searches and suggestions to help migrate"
-    },
-    {
-      "role": "text",
-      "name": "your code to Python 3."
-    },
-    {
-      "role": "link",
-      "name": "Android"
-    },
-    {
-      "role": "text",
-      "name": "Explore popular Android repositories."
-    },
-    {
-      "role": "link",
-      "name": "Kubernetes"
-    },
-    {
-      "role": "text",
-      "name": "Search within the Kubernetes community."
-    },
-    {
-      "role": "link",
-      "name": "Go"
-    },
-    {
-      "role": "text",
-      "name": "Find code examples in top Go repositories."
-    },
-    {
-      "role": "link",
-      "name": "React Hooks"
-    },
-    {
-      "role": "text",
-      "name": "Learn how to use React Hooks with search"
-    },
-    {
-      "role": "text",
-      "name": "examples."
-    },
-    {
-      "role": "link",
-      "name": "Stanford University"
-    },
-    {
-      "role": "text",
-      "name": "Explore Stanford open-source code."
-    },
-    {
-      "role": "heading",
-      "name": "Example searches",
-      "level": 3
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Search a language lang:name",
-      "level": 3
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
-      "name": ""
+      "role": "tabpanel",
+      "name": "Popular queries",
+      "children": [
+        {
+          "role": "link",
+          "name": ""
+        },
+        {
+          "role": "link",
+          "name": ""
+        },
+        {
+          "role": "link",
+          "name": ""
+        },
+        {
+          "role": "link",
+          "name": ""
+        },
+        {
+          "role": "link",
+          "name": ""
+        },
+        {
+          "role": "link",
+          "name": ""
+        },
+        {
+          "role": "link",
+          "name": "Open in a new tab"
+        }
+      ]
     },
     {
       "role": "link",
@@ -249,21 +232,6 @@
     {
       "role": "link",
       "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Search syntax",
-      "level": 3
-    },
-    {
-      "role": "heading",
-      "name": "COMMON SEARCH",
-      "level": 5
-    },
-    {
-      "role": "heading",
-      "name": "FINDING MATCHES",
-      "level": 5
     },
     {
       "role": "link",

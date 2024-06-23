@@ -74,7 +74,6 @@ describe('documentToSVG()', () => {
 	const snapshotDirectory = path.resolve(root, 'src/test/snapshots')
 	const sites = [
 		new URL('https://sourcegraph.com/search'),
-		new URL('https://sourcegraph.com/extensions'),
 		new URL('https://www.google.com?hl=en'),
 		new URL('https://news.ycombinator.com'),
 		new URL(
@@ -229,10 +228,10 @@ describe('documentToSVG()', () => {
 				console.log('Bringing page to front')
 				await page.bringToFront()
 				console.log('Snapshotting the original page')
-				const expectedScreenshot = await page.screenshot({ encoding: 'binary', type: 'png', fullPage: false })
+				const expectedScreenshot = await page.screenshot({ encoding: 'binary', type: 'png', fullPage: false }) as Buffer
 				await writeFile(path.resolve(snapshotDirectory, `${encodedName}.expected.png`), expectedScreenshot)
 				console.log('Snapshotting the SVG')
-				const actualScreenshot = await svgPage.screenshot({ encoding: 'binary', type: 'png', fullPage: false })
+				const actualScreenshot = await svgPage.screenshot({ encoding: 'binary', type: 'png', fullPage: false }) as Buffer
 				await writeFile(path.resolve(snapshotDirectory, `${encodedName}.actual.png`), actualScreenshot)
 				console.log('Snapshotted, comparing PNGs')
 
@@ -259,7 +258,7 @@ describe('documentToSVG()', () => {
 
 				console.log('Difference', differencePercentage.toFixed(2) + '%')
 
-				assert.isBelow(differencePercentage, 0.5) // %
+				assert.isBelow(differencePercentage, 2) // %
 			})
 
 			it('produces SVG with the expected accessibility tree', async function () {

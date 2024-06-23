@@ -4,19 +4,11 @@
   "children": [
     {
       "role": "link",
-      "name": "About"
-    },
-    {
-      "role": "link",
-      "name": "Store"
-    },
-    {
-      "role": "link",
       "name": "Gmail"
     },
     {
       "role": "link",
-      "name": "Images"
+      "name": "Search for Images"
     },
     {
       "role": "button",
@@ -27,25 +19,71 @@
       "name": "Sign in"
     },
     {
+      "role": "img",
+      "name": "Google"
+    },
+    {
+      "role": "button",
+      "name": "close"
+    },
+    {
       "role": "combobox",
       "name": "Search"
     },
     {
       "role": "button",
-      "name": "Clear",
-      "children": [
-        {
-          "role": "generic",
-          "name": "Clear"
-        }
-      ]
+      "name": "Clear"
     },
     {
       "role": "button",
       "name": "Search by voice"
     },
     {
+      "role": "button",
+      "name": "Search by image"
+    },
+    {
+      "role": "button",
+      "name": "Close Choose what you’re giving feedback on"
+    },
+    {
       "role": "listbox",
+      "name": ""
+    },
+    {
+      "role": "option",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "See more"
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "option",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "option",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "option",
+      "name": ""
+    },
+    {
+      "role": "button",
       "name": ""
     },
     {
@@ -61,11 +99,7 @@
       "name": "I'm Feeling Lucky"
     },
     {
-      "role": "link",
-      "name": ""
-    },
-    {
-      "role": "link",
+      "role": "button",
       "name": ""
     },
     {
@@ -77,28 +111,32 @@
       "name": "I'm Feeling Lucky"
     },
     {
-      "role": "button",
-      "name": ""
-    },
-    {
-      "role": "button",
-      "name": "close"
-    },
-    {
-      "role": "img",
-      "name": "Google"
-    },
-    {
       "role": "text",
       "name": "Google offered in:"
     },
     {
       "role": "link",
-      "name": "Deutsch"
+      "name": "русский"
     },
     {
       "role": "text",
-      "name": "Germany"
+      "name": "Russia"
+    },
+    {
+      "role": "link",
+      "name": "About"
+    },
+    {
+      "role": "link",
+      "name": "Advertising"
+    },
+    {
+      "role": "link",
+      "name": "Business"
+    },
+    {
+      "role": "link",
+      "name": "How Search works"
     },
     {
       "role": "link",
@@ -109,13 +147,8 @@
       "name": "Terms"
     },
     {
-      "role": "combobox",
-      "name": "Settings",
-      "haspopup": "menu"
-    },
-    {
       "role": "menu",
-      "name": "Settings",
+      "name": "",
       "children": [
         {
           "role": "menuitem",
@@ -140,40 +173,23 @@
         {
           "role": "menuitem",
           "name": ""
+        },
+        {
+          "role": "menuitem",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": ""
+            }
+          ]
         }
       ]
     },
     {
-      "role": "link",
-      "name": "Advertising"
-    },
-    {
-      "role": "link",
-      "name": "Business"
-    },
-    {
-      "role": "link",
-      "name": "How Search works"
-    },
-    {
-      "role": "text",
-      "name": "Google uses cookies to deliver its services, to personalise ads and to analyse traffic. You can adjust your privacy controls at any time in your"
-    },
-    {
-      "role": "text",
-      "name": "."
-    },
-    {
-      "role": "link",
-      "name": "Google settings"
-    },
-    {
-      "role": "link",
-      "name": "Learn more"
-    },
-    {
-      "role": "button",
-      "name": "Got it"
+      "role": "combobox",
+      "name": "Settings",
+      "haspopup": "menu"
     },
     {
       "role": "textbox",
