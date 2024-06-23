@@ -88,7 +88,7 @@
 		"pixelmatch": "^5.2.1",
 		"pngjs": "^6.0.0",
 		"prettier": "^2.2.1",
-		"puppeteer": "^22.0.0",
+		"puppeteer": "^21.0.0",
 		"rxjs": "^7.1.0",
 		"semantic-release": "^24.0.0",
 		"source-map-support": "^0.5.19",
