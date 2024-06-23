@@ -30,11 +30,11 @@
 		"watch": "tsc -p . -w",
 		"eslint": "eslint 'src/**/*.ts'",
 		"prettier": "prettier --check '**/*.{yml,ts,json}'",
+		"prettier-fix": "prettier --write '**/*.{yml,ts,json}'",
 		"get-fixture": "TS_NODE_COMPILER_OPTIONS='{\"module\":\"commonjs\"}' ts-node src/test/get-fixture.ts",
 		"test": "mocha src/test/test.ts",
 		"semantic-release": "semantic-release"
 	},
-
 	"commitlint": {
 		"extends": [
 			"@commitlint/config-conventional"
