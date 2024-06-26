@@ -6,6 +6,8 @@
 
 Library to convert a given HTML DOM node into an accessible SVG "screenshot".
 
+PLEASE NOTE: IT IS A FORK OF [felixfbecker/dom-to-svg](https://github.com/felixfbecker/dom-to-svg) THAT I WANT TO ACTUALIZE AND IMPROVE. THERE IS NO TESTS AND IT IS UNSTABLE, SO DO NOT USE IT IN PRODUCTION. I WILL REMOVE THAT MESSAGE WHEN IT IS READY. THANKS.
+
 ## Usage
 
 ```js
@@ -35,7 +37,3 @@ The output can be used as-is as valid SVG or easily passed to other packages to 
 - Can inline external resources like images, fonts, etc to make SVG self-contained.
 - Maintains CSS stacking order of elements.
 - Outputs debug attributes on SVG to trace elements back to their DOM nodes.
-
-## Caveats
-
-- Designed to run in the browser. Using JSDOM on the server will likely not work, but it can easily run inside Puppeteer.
