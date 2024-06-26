@@ -1,8 +1,8 @@
 {
-	"extension": ["ts"],
-	"require": "ts-node/register",
-	"loader": "ts-node/esm",
-	"timeout": 150000,
-	"exit": true,
-	"enableSourceMaps": true
+  "extension": ["ts"],
+  "require": "ts-node/register",
+  "loader": "ts-node/esm",
+  "timeout": 150000,
+  "exit": true,
+  "enableSourceMaps": true
 }
